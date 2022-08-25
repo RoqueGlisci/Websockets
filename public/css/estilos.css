@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+}
+
+label {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.jumbotron {
+    min-height: 100vh;
+}
+
+.autor { 
+    color: blue;
+    font-weight: bold;
+}
+
+.fecha {
+    color: brown;
+}
+
+.mensaje {
+    color: green;
+    font-family: italic;
+}
